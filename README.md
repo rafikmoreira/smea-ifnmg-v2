@@ -4,7 +4,7 @@ Projeto simples, feito com a linguagem C, para a disciplina Estrutura de Dados.
 
 <br/>
 
-![Imagem animais](https://github.com/rafikmoreira/smea-ifnmg/blob/master/git-images/img-md.png?raw=true)
+![Imagem árvore](https://github.com/rafikmoreira/smea-ifnmg-v2/blob/master/git-images/img-md.png?raw=true)
 
 ### O sistema permite ao usuário:
 
