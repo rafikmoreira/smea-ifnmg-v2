@@ -317,7 +317,7 @@ void atualizarArvore(ListaArvores *lista)
     printf("Árvore não encontrada.\n");
   }
 };
-void *listarArvores(ListaArvores *lista, ListaEspecies *especie)
+void listarArvores(ListaArvores *lista, ListaEspecies *especie)
 {
   printf("\n-----------------------------------------------------------\n");
   printf("| Lista de árvores da espécie: %s\n", especie->dado.nomeCientifico);
