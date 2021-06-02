@@ -33,6 +33,6 @@ void listarEspecies(ListaEspecies *lista);
 ListaArvores *addArvore(ListaArvores *lista);
 ListaArvores *removerArvore(ListaArvores *lista);
 void atualizarArvore(ListaArvores *lista);
-void *listarArvores(ListaArvores *lista, ListaEspecies *especie);
+void listarArvores(ListaArvores *lista, ListaEspecies *especie);
 
 #endif
